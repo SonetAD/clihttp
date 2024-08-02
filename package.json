@@ -1,0 +1,26 @@
+{
+  "name": "clihttp",
+  "version": "1.0.0",
+  "description": "clihttp: A fast, intuitive command-line tool for seamless HTTP requests and API testing.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SonetAD/clihttp.git"
+  },
+  "keywords": [
+    "clihttpclient",
+    "terminalapitester",
+    "commandlinepostmanalternative",
+    "clirestclient",
+    "shellhttpclient"
+  ],
+  "author": "Sonet Adhikary",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SonetAD/clihttp/issues"
+  },
+  "homepage": "https://github.com/SonetAD/clihttp#readme"
+}
